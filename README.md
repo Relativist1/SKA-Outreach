@@ -9,7 +9,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <img src="images/logo.png" alt="Logo" width="130" height="130">
+  <img src="images/logo.png" alt="Logo" width="150" height="150">   
+  
   <img src="images/vs.png" alt="Logo" width="130" height="130">
   <h3 align="center">SKA-Outreach-Pulsar-Hands-on-session</h3>
   <p align="center">
