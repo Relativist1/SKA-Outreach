@@ -1,2 +1,2 @@
 # SKA-Outreach-Pulsar-Hands-On-
-Pulsar Hands-on Session (SKA Outreach @Vigyan Samagam)
+Welcome toPulsar Hands-on Session (SKA Outreach @Vigyan Samagam)
