@@ -1,7 +1,7 @@
-
+# SKA Outreach Pulsar Hands-On
 
 <!--
-# SKA Outreach Pulsar Hands-On
+
 *** Welcome to Pulsar Hands-on Session during SKA Outreach Week @ Vigyan Samagam. 
 *** Here we will be doing data analysis using some pulsar data obtained before hand 
 *** from various radio telescopes..
