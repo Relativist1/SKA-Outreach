@@ -16,9 +16,11 @@ Install using the installer.
 
 ## Installation [2]
 
-### Linux Users (Ubuntu)
+### Installing pip
 
-Linux users can install Jupyter Notebook without installing Anaconda in your Linux system (Ubuntu). The following steps can be followed to install. If you have already installed pip, skip to step 2.
+#### Linux Users (Ubuntu)
+
+Jupyter Notebook can be installed without installing Anaconda in your Linux system (Ubuntu). The following steps can be followed to install. If you have already installed pip, skip this step.
 
 * Open the terminal and type the following command
 ```sh
@@ -27,6 +29,25 @@ sudo apt install python3-pip
 * Now type the following command
 ```bash
 pip install notebook
+```
+* Start Jupyter using
+```bash
+jupyter notebook
+```
+#### Mac Users
+
+Mac users can go to this and download the file **get-pip.py**, then open the terminal and go to the folder where the downloaded file is and type the following command
+
+```bash
+python get-pip.py
+````
+* Now type the following command
+```bash
+pip install notebook
+```
+* Start Jupyter using
+```bash
+jupyter notebook
 ```
 
 ## Using online
