@@ -36,7 +36,7 @@ jupyter notebook
 ```
 #### Mac Users
 
-Mac users can go to this and download the file **get-pip.py**, then open the terminal and go to the folder where the downloaded file is and type the following command
+Mac users can go to this link https://bootstrap.pypa.io/get-pip.py and save the file as **get-pip.py**, then open the terminal and go to the folder where the downloaded file is and type the following command
 
 ```bash
 python get-pip.py
