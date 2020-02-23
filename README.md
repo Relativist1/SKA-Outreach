@@ -9,8 +9,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  #<h3 align="center">SKA-Outreach-Pulsar-Hands-on-session</h3>
-
+  <h3 align="center">SKA-Outreach-Pulsar-Hands-on-session</h3>
+   <img src="images/logo.png" alt="Logo" width="90" height="90">
   <p align="center">
     Welcome to Pulsar Hands-on Session during SKA Outreach Week @ Vigyan Samagam. Here we will be doing data analysis using some pulsar data obtained before hand from various radio telescopes.
   </p>
