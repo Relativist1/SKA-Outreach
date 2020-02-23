@@ -3,7 +3,7 @@ Welcome to Pulsar Hands-on Session during SKA Outreach Week @ Vigyan Samagam. He
 
 # Downloads
 
-Downloading the repository gives you the access to the contents available. You can download it as a zip file using the top right button 
+Downloading the repository gives you the access to the contents available. Clone/Downlaod the repository using the top right button, save it to the desired folder and then unzip/unrar it.
 
 # Using Python
 
@@ -18,11 +18,17 @@ Install using the installer.
 
 ### Linux Users (Ubuntu)
 
-Linux users can install Jupyter Notebook without installing Anaconda in your Linux system (Ubuntu). The following steps can be followed to install:
+Linux users can install Jupyter Notebook without installing Anaconda in your Linux system (Ubuntu). The following steps can be followed to install. If you have already installed pip, skip to step 2.
+
 * Open the terminal and type the following command
 ```sh
 sudo apt install python3-pip
 ```
+* Now type the following command
+'''sh
+pip install notebook
+'''
+
 ## Using online
 
 To use Jupyter Notebook online, go to https://jupyter.org/try and click on **Try Classic Notebook** and then a Jupyter Notebook will open.
