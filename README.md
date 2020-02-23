@@ -2,6 +2,13 @@
 Welcome to Pulsar Hands-on Session during SKA Outreach Week @ Vigyan Samagam. Here we will be doing data analysis using some pulsar data obtained before hand from various radio telescopes.
 
 # Downloads
+Vela Pulsar Data (Download at least 1 file):
+* https://drive.google.com/file/d/0B71z6CTGT4maU2JUY18yWFM2SU0/view?ts=58a78222
+* https://drive.google.com/file/d/0B71z6CTGT4maVURwRk5BaUZJYmM/view?ts=58a78222
+* https://drive.google.com/file/d/0B71z6CTGT4maQzc5RnJjd1FzNzQ/view?ts=58a78222
+* https://drive.google.com/file/d/0B71z6CTGT4maQm90Y2NHcHRUNlU/view?ts=58a78222
+* https://drive.google.com/file/d/0B71z6CTGT4maSG5XTndHbXVHTWM/view?ts=58a78222
+
 
 Downloading the repository gives you the access to the contents available. Clone/Downlaod the repository using the top right button, save it to the desired folder and then unzip/unrar it.
 
