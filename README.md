@@ -25,9 +25,9 @@ Linux users can install Jupyter Notebook without installing Anaconda in your Lin
 sudo apt install python3-pip
 ```
 * Now type the following command
-'''sh
+```bash
 pip install notebook
-'''
+```
 
 ## Using online
 
