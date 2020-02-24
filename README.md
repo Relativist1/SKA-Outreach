@@ -6,7 +6,7 @@
 *** 
 *** 
 -->
-<!-- PROJECT LOGO -->
+<!-- Intro -->
 <br />
 <p align="center">
   <img src="images/logo.png" alt="Logo" width="150" height="150">   
@@ -55,47 +55,48 @@ Jupyter Notebook can be installed without installing Anaconda in your Linux syst
 
 * Open the terminal and type the following command
 ```sh
-sudo apt install python3-pip
+$ sudo apt install python3-pip
 ```
 * Now type the following command
 ```bash
-pip install notebook
+$ pip install notebook
 ```
 * Start Jupyter using
 ```bash
-jupyter notebook
+$ jupyter notebook
 ```
 #### Mac Users
 
 Mac users can go to this link https://bootstrap.pypa.io/get-pip.py and save the file as **get-pip.py**, then open the terminal and go to the folder where the downloaded file is and type the following command
 
 ```bash
-python get-pip.py
+$ python get-pip.py
 ````
 * Now type the following command
 ```bash
-pip install notebook
+$ pip install notebook
 ```
 * Start Jupyter using
 ```bash
-jupyter notebook
+$ jupyter notebook
 ```
 ### Installing Python Libraries
 
 Users who install python using the Method 2 need to install a few important python libraries as they are not installed via that method.
-numpy
-scipy
-matplotlib 
+* numpy
+* scipy
+* matplotlib 
+* pandas
 
 * To install a library , open the terminal and type in the following command
 
 ```bash
-pip install library_name
+$ pip install library_name
 ```
 * Replace the library_name with the desired library and hit enter. For eg.
 
 ```bash
-pip install matplotlib
+$ pip install matplotlib
 ```
 
 ## Using online
