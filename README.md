@@ -38,14 +38,14 @@ Downloading the repository gives you the access to the contents available. Clone
 
 # Using Python
 
-## Installation [1]
+## Installation [Method 1]
 
 Python can be installed in many different ways with many distributions. For the hands-on sesion we will be using **Jupyter Notebook**. To get Jupyter notebook one can download Anaconda which is a python distribution software.
 Anaconda for a specific operating system can be downloaded from https://www.anaconda.com/distribution/#download-section. Choose the appropriate operating system. Make sure to download **Python 3.7 version**.
 Install using the installer.
 
 
-## Installation [2]
+## Installation [Method 2]
 
 ### Installing pip
 
