@@ -38,7 +38,7 @@ Downloading the repository gives you the access to the contents available. Clone
 
 # Using Python
 
-## Installation [Method 1]
+## Installation [Method 1] [Recommended for Windows Users]
 
 Python can be installed in many different ways with many distributions. For the hands-on sesion we will be using **Jupyter Notebook**. To get Jupyter notebook one can download Anaconda which is a python distribution software.
 Anaconda for a specific operating system can be downloaded from https://www.anaconda.com/distribution/#download-section. Choose the appropriate operating system. Make sure to download **Python 3.7 version**.
@@ -79,6 +79,21 @@ pip install notebook
 * Start Jupyter using
 ```bash
 jupyter notebook
+```
+### Installing Python Libraries
+
+Users who install python using the Method 2 need to install a few important python libraries as they are not installed via that method.
+* numpy * scipy * matplotlib 
+
+* To install a library , open the terminal and type in the following command
+
+```bash
+pip install library_name
+```
+* Replace the library_name with the desired library and hit enter. For eg.
+
+```bash
+pip install matplotlib
 ```
 
 ## Using online
