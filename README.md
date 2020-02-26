@@ -102,3 +102,7 @@ $ pip install matplotlib
 ## Using online
 
 To use Jupyter Notebook online, go to https://jupyter.org/try and click on **Try Classic Notebook** and then a Jupyter Notebook will open.
+
+
+## Queries
+Any further issues or quieries realted to the coding or the analysis part can be forwarded via email to sbhkmr1999@gmail.com
