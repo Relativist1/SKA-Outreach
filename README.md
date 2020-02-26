@@ -105,4 +105,4 @@ To use Jupyter Notebook online, go to https://jupyter.org/try and click on **Try
 
 
 ## Queries
-Any further issues or quieries realted to the coding or the analysis part can be forwarded via email to sbhkmr1999@gmail.com
+Any further issues or queries realted to the coding or the analysis part can be forwarded via email to sbhkmr1999@gmail.com
